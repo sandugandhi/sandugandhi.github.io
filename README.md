@@ -3,7 +3,9 @@ Sandesh Gandhi
 
 Resume cum Curriculum Vitae
 
-[http://radicalvision.wordpress.com](My technology blog)
-[http://twitter.com/sandugandhi](@sandugandhi)
-[http://facebook.com/sandeshgandhi](fb.me)
+[Blog](http://radicalvision.wordpress.com "Tech Blog")
+
+[@sandugandhi](http://twitter.com/sandugandhi "twitter")
+
+[fb](http://facebook.com/sandeshgandhi "facebook")
 
